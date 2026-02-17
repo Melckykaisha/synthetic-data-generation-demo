@@ -227,7 +227,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🚀 Live Demo
 
-Visit the live demo: [https://yourusername.github.io/synthetic-data-generation-demo/](https://yourusername.github.io/synthetic-data-generation-demo/)
+Visit the live demo: [https://Melckykaisha.github.io/synthetic-data-generation-demo/](https://Melckykaisha.github.io/synthetic-data-generation-demo/)
 
 ---
 
