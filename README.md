@@ -215,16 +215,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📸 Screenshots
 
 ### Overview Tab
-*Interactive comparison of VAE and GAN approaches with real-time statistics*
+![Overview](screenshots/overview.png)
 
 ### Distributions Tab
-*Side-by-side histograms showing distribution matching quality*
+![Distributions](screenshots/distributions.png)
 
 ### Correlations Tab
-*Correlation matrix comparison between real and synthetic data*
-
-### Risks Tab
-*Comprehensive analysis of use cases, risks, and quality metrics*
+![Correlations](screenshots/correlations.png)
 
 ---
 
