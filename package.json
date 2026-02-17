@@ -1,0 +1,47 @@
+{
+  "name": "synthetic-data-generation-demo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interactive demonstration of synthetic data generation using GANs and VAEs with statistical comparison",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "synthetic-data",
+    "generative-ai",
+    "GANs",
+    "VAEs",
+    "data-science",
+    "machine-learning",
+    "react",
+    "visualization"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.5.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.17.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/synthetic-data-generation-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/synthetic-data-generation-demo/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/synthetic-data-generation-demo#readme"
+}
