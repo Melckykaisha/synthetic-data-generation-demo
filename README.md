@@ -141,7 +141,7 @@ synthetic-data-generation-demo/
 ├── public/                    # Static assets
 │   └── vite.svg
 ├── Report/                    # Documentation
-│   └── synthetic_data_report.docx
+│   └── synthetic_data_report.pdf
 ├── src/                       # Source code
 │   ├── assets/
 │   ├── App.jsx               # Main application component
