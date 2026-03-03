@@ -130,6 +130,7 @@ const SyntheticDataDemo = () => {
   const [ganData, setGanData] = useState([]);
   const [selectedMethod, setSelectedMethod] = useState('vae');
   const [activeTab, setActiveTab] = useState('overview');
+  
 
   useEffect(() => {
     generateAllData();
