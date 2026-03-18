@@ -3,7 +3,7 @@ import { LineChart, Line, BarChart, Bar, ScatterChart, Scatter, XAxis, YAxis, Ca
 import { RefreshCw, Database, Zap, AlertTriangle, CheckCircle, TrendingUp } from 'lucide-react';
 import './App.css'
 
-// Add this CSS to remove margins
+// remove margins
 if (typeof document !== 'undefined') {
   document.body.style.margin = '0';
   document.body.style.padding = '0';
